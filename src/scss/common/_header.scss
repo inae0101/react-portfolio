@@ -1,0 +1,88 @@
+header {
+	width: 100%;
+	border-bottom: 1px solid #eee;
+	background: #fff;
+
+	.inner {
+		width: 1180px;
+		height: 100px;
+		margin: 0px auto;
+		position: relative;
+
+		h1 {
+			position: absolute;
+			bottom: 15px;
+			letter-spacing: 1px;
+			left: 0px;
+
+			a {
+				font: bold 30px/1 'Noto Sans';
+				color: #000;
+			}
+		}
+
+		#gnb {
+			position: absolute;
+			bottom: 15px;
+			right: 0px;
+
+			li {
+				float: left;
+				a {
+					display: inline-block;
+					padding: 5px 10px;
+					font: bold 18px/1 'Noto Sans';
+					color: #000;
+				}
+			}
+		}
+		.fa-bars {
+			color: #fff;
+		}
+	}
+}
+// 메인이랑 서브랑 헤더디자인 다를때
+// &.sub{
+// 	background: #222;
+// 	.inner{
+// 		h1 a{
+// 			color: #fff;
+// 		}
+// 		#gnb li a{
+// 			color: #fff;
+// 		}
+// 	}
+// }
+// &.main{
+// 	background: #fff;
+// 	border-bottom:1px solid #ccc;
+// 	.inner{
+// 		h1 a{
+// 			color: #555;
+// 		}
+// 		#gnb li a{
+// 			color: #555
+// 		}
+// 	}
+// }
+
+@media screen and (max-width: 1179px) {
+	header {
+		width: 100%;
+
+		.inner {
+			width: 100%;
+
+			h1 {
+				left: 40px;
+			}
+
+			#gnb {
+				display: none;
+			}
+			.fa-bars {
+				color: #555;
+			}
+		}
+	}
+}

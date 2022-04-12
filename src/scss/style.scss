@@ -1,0 +1,27 @@
+$tablet: 1179px;
+$mobile: 539px;
+
+//common
+@import 'common/reset';
+@import 'common/header';
+@import 'common/footer';
+@import 'common/layout';
+// main
+@import 'main/visual';
+@import 'main/content';
+@import 'main/txtbox';
+@import 'main/banner';
+@import 'main/photobox';
+@import 'main/prevboard';
+@import 'main/board';
+@import 'main/nextboard';
+
+// sub
+@import 'sub/youtube';
+@import 'sub/gallery';
+@import 'sub/location';
+@import 'sub/about';
+@import 'sub/community';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
