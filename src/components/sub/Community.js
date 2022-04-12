@@ -1,14 +1,7 @@
-import React from 'react';
+import Layout from '../common/Layout';
 
 function Community() {
-	return (
-		<section className='content community'>
-			<figure></figure>
-			<div className='inner'>
-				<h1>COMMUNITY.</h1>
-			</div>
-		</section>
-	);
+	return <Layout name={'COMMUNITY.'}></Layout>;
 }
 
 export default Community;

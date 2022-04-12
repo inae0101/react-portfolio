@@ -11,12 +11,22 @@
 		min-height: 400px;
 		margin: 0px auto;
 		position: relative;
+		opacity: 0;
+		transform: translateY(50px);
+		transition: 1s;
 
 		h1 {
 			font: normal 60px/1.5 'Secular One';
 			border-bottom: 3px solid #999;
 			color: #000;
 			text-align: left;
+			margin-bottom: 100px;
+		}
+	}
+	&.on {
+		.inner {
+			transform: translateY(0);
+			opacity: 1;
 		}
 	}
 }

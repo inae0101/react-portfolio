@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "Teamwork",
+      "position": "GETS STUFF DONE",
+      "pic": "member.jpg",
+      "description": "Lorem ipsum sit amet, consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit."
+    },
+    {
+      "name": "Andrew Taylor",
+      "position": "President",
+      "pic": "member1.jpg",
+      "description": "Lorem ipsum sit amet, consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit."
+    },
+    {
+      "name": "Jonathon Loy",
+      "position": "Creative Head",
+      "pic": "member2.jpg",
+      "description": "Lorem ipsum sit amet, consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit."
+    },
+    {
+      "name": "Kate Carver",
+      "position": "Design Technologist",
+      "pic": "member3.jpg",
+      "description": "Lorem ipsum sit amet, consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit."
+    },
+    {
+      "name": "Laura Looijen",
+      "position": "Software Engineer",
+      "pic": "member4.jpg",
+      "description": "Lorem ipsum sit amet, consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit."
+    },
+    {
+      "name": "Sophie Lahi",
+      "position": "Interior Designer",
+      "pic": "member5.jpg",
+      "description": "Lorem ipsum sit amet, consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit consectetur iure a quod placeat tempora possimus vero minus autem placeat tempora dolor illum ipsum dolor sit amet, consectetur adipisicing elit possimus vero minus, iure a quod Harum possimus vero minus consectetur adipisicing elit."
+    }
+  ]
+}
