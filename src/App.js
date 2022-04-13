@@ -16,7 +16,7 @@ import Board from './components/main/Board';
 import Nextboard from './components/main/Nextboard';
 
 // sub
-import Project from './components/sub/Project';
+import Youtube from './components/sub/Youtube';
 import Gallery from './components/sub/Gallery';
 import About from './components/sub/About';
 import Community from './components/sub/Community';
@@ -50,7 +50,7 @@ function App() {
 				<Nextboard />
 			</Route>
 
-			<Route path='/project' component={Project} />
+			<Route path='/youtube' component={Youtube} />
 			<Route path='/gallery' component={Gallery} />
 			<Route path='/about' component={About} />
 			<Route path='/community' component={Community} />

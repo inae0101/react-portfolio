@@ -6,7 +6,7 @@
 		margin-bottom: 80px;
 	}
 
-	.inner {
+	> .inner {
 		width: 1180px;
 		min-height: 400px;
 		margin: 0px auto;
@@ -24,7 +24,7 @@
 		}
 	}
 	&.on {
-		.inner {
+		> .inner {
 			transform: translateY(0);
 			opacity: 1;
 		}
@@ -33,7 +33,7 @@
 
 @media screen and (max-width: 1179px) {
 	.content {
-		.inner {
+		> .inner {
 			width: 100%;
 			padding: 0px 40px;
 		}

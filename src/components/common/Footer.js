@@ -10,7 +10,7 @@ function Footer() {
 		<footer>
 			<div className='inner'>
 				<h1>CLAUDEL DESIGN</h1>
-				<div class='wrap'>
+				<div className='wrap'>
 					<article>
 						<h2>About Us</h2>
 						<p>

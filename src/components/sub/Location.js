@@ -1,7 +1,7 @@
 import Layout from '../common/Layout';
 
 function Location() {
-	return <Layout name={'ABOUT.'}></Layout>;
+	return <Layout name={'LOCATION.'}></Layout>;
 }
 
 export default Location;

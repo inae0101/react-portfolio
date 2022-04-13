@@ -32,8 +32,8 @@ function Header() {
 						</NavLink>
 					</li>
 					<li>
-						<NavLink to='/project' activeStyle={active}>
-							PROJECT
+						<NavLink to='/youtube' activeStyle={active}>
+							YOUTUBE
 						</NavLink>
 					</li>
 					<li>
