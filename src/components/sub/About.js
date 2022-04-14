@@ -13,7 +13,7 @@ function About() {
 	}, []);
 
 	return (
-		<Layout name={'ABOUT.'}>
+		<Layout name={'ABOUT'}>
 			<section className='about'>
 				{members.map((member, idx) => {
 					return (

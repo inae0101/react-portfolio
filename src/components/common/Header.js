@@ -41,6 +41,11 @@ function Header() {
 							LOCATION
 						</NavLink>
 					</li>
+					<li>
+						<NavLink to='/join' activeStyle={active}>
+							JOIN
+						</NavLink>
+					</li>
 				</ul>
 				<FontAwesomeIcon icon={faBars} />
 			</div>

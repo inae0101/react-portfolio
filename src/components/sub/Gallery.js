@@ -22,7 +22,7 @@ function Gallery() {
 
 	return (
 		<>
-			<Layout name={'GALLERY.'}>
+			<Layout name={'GALLERY'}>
 				<ul>
 					{items.map((item, idx) => {
 						return (

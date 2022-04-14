@@ -21,6 +21,7 @@ import Gallery from './components/sub/Gallery';
 import About from './components/sub/About';
 import Community from './components/sub/Community';
 import Location from './components/sub/Location';
+import Join from './components/sub/Join';
 
 function App() {
 	return (
@@ -55,6 +56,7 @@ function App() {
 			<Route path='/about' component={About} />
 			<Route path='/community' component={Community} />
 			<Route path='/location' component={Location} />
+			<Route path='/join' component={Join} />
 
 			<Footer />
 		</>

@@ -22,7 +22,7 @@ function Youtube() {
 
 	return (
 		<>
-			<Layout name={'YOUTUBE.'}>
+			<Layout name={'YOUTUBE'}>
 				<section className='project'>
 					<div className='inner'>
 						<div className='wrap'>
