@@ -27,7 +27,8 @@ function About() {
 								<article>
 									<h2>{member.name}</h2>
 									<h3>{member.position}</h3>
-									<p>{member.description}</p>
+									<p>{member.description1}</p>
+									<p>{member.description2}</p>
 								</article>
 							</div>
 						</div>

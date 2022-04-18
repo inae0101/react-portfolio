@@ -1,7 +1,34 @@
 .prevboard {
-	width: 1180px;
-	// min-height: 500px;
-	margin: 150px auto;
+	width: 100%;
+	padding-bottom: 100px;
+
+	.inner {
+		width: 1180px;
+		margin: 0 auto;
+
+		.wrap {
+			width: 100%;
+
+			.txt1 {
+				width: 100%;
+				margin-right: 40px;
+
+				h1 {
+					font: bold 40px/1.5 'Noto Sans';
+					color: #222;
+					letter-spacing: 6px;
+					margin-bottom: 20px;
+					text-align: center;
+				}
+				p {
+					font: 20px/1.5 'Noto Sans';
+					color: #222222b3;
+					letter-spacing: 1px;
+					text-align: center;
+				}
+			}
+		}
+	}
 }
 
 @media screen and (max-width: $tablet) {

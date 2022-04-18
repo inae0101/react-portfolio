@@ -1,8 +1,7 @@
 .content {
 	figure {
 		width: 100%;
-		height: 250px;
-		background: #bbb;
+		height: 200px;
 		margin-bottom: 80px;
 	}
 
@@ -16,11 +15,11 @@
 		transition: 1s;
 
 		h1 {
-			font: normal 60px/1.5 'Secular One';
-			border-bottom: 3px solid #999;
-			color: #000;
-			text-align: left;
-			margin-bottom: 100px;
+			font: normal 50px/1.5 'Secular One';
+			border-top: 2px solid #9d9083;
+			border-bottom: 2px solid #9d9083;
+			color: #222222;
+			text-align: center;
 		}
 	}
 	&.on {

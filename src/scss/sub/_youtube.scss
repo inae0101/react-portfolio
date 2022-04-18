@@ -6,7 +6,7 @@
 		width: 1180px;
 		margin: 30px auto;
 		position: relative;
-		background: #eee;
+		background: #f0f0f0;
 
 		.wrap {
 			width: 100%;
@@ -41,21 +41,21 @@
 				padding-left: 80px;
 				padding-top: 30px;
 				h2 {
-					font: bold 40px/1 'Libre Baskerville';
-					color: #111;
+					font: bold 40px/1 'Noto Sans';
+					color: #222;
 					text-align: left;
 					letter-spacing: 1px;
 				}
 				h3 {
-					font: 20px/1 'Libre Baskerville';
-					color: #222;
+					font: 20px/1 'Noto Sans';
+					color: #222222b3;
 					text-align: left;
 					letter-spacing: 2px;
 					padding-top: 40px;
 				}
 				p {
-					font: 16px/1.5 'arial';
-					color: #444;
+					font: 16px/1.5 'Noto Sans';
+					color: #aeaeae;
 					padding-top: 20px;
 					letter-spacing: 2px;
 				}
@@ -87,7 +87,7 @@
 			width: 20%;
 			span {
 				font: bold 18px/1 'Noto Sans';
-				color: #444;
+				color: #222222b3;
 			}
 		}
 
@@ -114,7 +114,7 @@
 			}
 			p {
 				font: 16px/1.2 'Noto Sans';
-				color: #444;
+				color: #aeaeae;
 			}
 		}
 	}

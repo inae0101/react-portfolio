@@ -1,7 +1,19 @@
 .banner {
-	width: 1180px;
-	// min-height: 500px;
-	margin: 150px auto;
+	width: 100%;
+	padding: 100px 0;
+	border-top: 2px solid #9d9083;
+	border-bottom: 2px solid #9d9083;
+	> .inner {
+		width: 1180px;
+		margin: 0px auto;
+
+		p {
+			font: 25px/2 'Noto Sans';
+			color: #9d9083;
+			text-align: center;
+			letter-spacing: 2px;
+		}
+	}
 }
 
 @media screen and (max-width: $tablet) {

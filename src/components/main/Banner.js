@@ -3,7 +3,13 @@ import React from 'react';
 function Banner() {
 	return (
 		<section className='banner'>
-			<h1>Banner</h1>
+			<div className='inner'>
+				<p>
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
+					aperiam veritatis architecto magnam. Quaerat labore unde esse cumque
+					quod harum!
+				</p>
+			</div>
 		</section>
 	);
 }

@@ -1,7 +1,44 @@
 .txtbox {
-	width: 1180px;
-	// min-height: 500px;
-	margin: 150px auto;
+	width: 100%;
+	padding: 100px 20px;
+
+	> .inner {
+		width: 1180px;
+		margin: 0 auto;
+
+		.wrap {
+			width: 100%;
+
+			.txt1 {
+				width: 100%;
+				margin-right: 40px;
+
+				h1 {
+					font: bold 40px/1.5 'Noto Sans';
+					color: #222222;
+					margin-bottom: 20px;
+					text-align: center;
+					letter-spacing: 6px;
+				}
+				p {
+					width: 1000px;
+					font: 26px/1.5 'Noto Sans';
+					color: #222222b3;
+					margin: 0 auto;
+				}
+				span {
+					display: block;
+					color: #9d9083;
+					font-size: 40px;
+					padding-left: 40px;
+					&:nth-of-type(2) {
+						text-align: end;
+						padding-right: 40px;
+					}
+				}
+			}
+		}
+	}
 }
 
 @media screen and (max-width: $tablet) {
