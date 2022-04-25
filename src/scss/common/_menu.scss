@@ -1,0 +1,25 @@
+nav {
+	width: 280px;
+	height: 100vh;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background: rgba(0, 0, 0, 0.9);
+	z-index: 10;
+
+	padding: 50px;
+	h1 {
+		a {
+			font: bold 20px/1.2 'Noto Sans';
+			color: #fff;
+		}
+	}
+
+	#gnb {
+		li {
+			a {
+				color: #fff;
+			}
+		}
+	}
+}
