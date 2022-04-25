@@ -4,7 +4,7 @@ function Visual() {
 	return (
 		<figure className='mainVisual'>
 			<div className='wrap'>
-				<video src='/videos/video_9.mp4' autoplay loop muted></video>
+				<img src='img/v1.jpg'></img>
 				<div className='inner'>
 					<h1>HOME & INTERIOR DESIGN</h1>
 					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
